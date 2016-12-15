@@ -4,7 +4,7 @@
 #The task falls to you: given descriptions of Goldilocks' needs and of the available porridge/chairs at the dinner table,
 #tell Goldilocks which chair to sit in so the chair does not break, and the porridge is at an edible temperature.
 
-#If weight is 100 and temp is 80, seats 1 and 3, in the options list, she can sit in. (0 and 2 in programmer language)
+#If weight is 100 and temp is 80, seats 2 and 5, in the options list, she can sit in. (1 and 4 in programmer language)
 
 
 weight = int(input("What is the weight of Goldilocks: "))
